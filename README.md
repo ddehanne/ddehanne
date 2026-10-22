@@ -8,6 +8,8 @@ My interests span systems architecture, computational methods, artificial intell
 
 I approach engineering as a process of understanding, building, testing, and refining ideas through evidence.
 
+⸻
+
 Areas of Exploration
 
 * Systems Engineering — Architecture, reliability, fault tolerance, and failure recovery.
