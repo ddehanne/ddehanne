@@ -35,7 +35,3 @@ Public repositories document selected experiments, methodologies, and technical 
 They do not represent the entirety of my engineering work. Independent research and proprietary development may remain private.
 
 The maturity, capabilities, and limitations of each public project should be assessed independently.
-
----
-
-*Build to understand. Test to verify. Refine through evidence.*
